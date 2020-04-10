@@ -7,6 +7,8 @@ import java.nio.file.Paths;
 
 public class CodeTest {
     String path ="C:\\Users\\Kirill\\Desktop\\OldFile.txt";
+
+
     @Test
     public void notEqualSource() {
         try {
